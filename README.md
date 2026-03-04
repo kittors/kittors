@@ -58,24 +58,24 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/kittors/AgentFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=AgentFlow&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=AgentFlow&theme=radical&show_owner=true" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/kittors/freshbox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=freshbox&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=freshbox&theme=radical&show_owner=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/kittors/CliRelay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=radical&show_owner=true" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/kittors/codeProxy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=radical&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -86,13 +86,13 @@
 ### 📊 行动轨迹 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kittors&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="kittors's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-flax-alpha.vercel.app/api?username=kittors&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="kittors's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittors&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="kittors's GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats-flax-alpha.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/kittors/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=kittors&style=flat-square&color=blue" />
 </p>
