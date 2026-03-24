@@ -62,8 +62,8 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/kittors/freshbox">
-        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=freshbox&show_owner=true" />
+      <a href="https://github.com/kittors/Agentic-Dev-Bootcamp">
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=Agentic-Dev-Bootcamp&show_owner=true" />
       </a>
     </td>
   </tr>
