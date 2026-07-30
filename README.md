@@ -2,9 +2,7 @@
 
 # yr
 
-**AI coding tools that actually work together**
-
-代理层 · 管理面板 · 记忆层
+喜欢尝试新事物，写代码。
 
 <br>
 
@@ -16,22 +14,6 @@
 
 ---
 
-### 在做的事
-
-AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 重配 + 重讲一遍项目。
-
-我在补中间这层缝：
-
-| | |
-|:--|:--|
-| **统一入口** | Gemini / Codex / Claude Code / Qwen → 同一套 OpenAI 兼容 API，配额与密钥集中管 |
-| **统一面板** | 调用量、密钥、路由一屏看完，能看能调 |
-| **统一记忆** | agent 自己判断该记什么，本地知识库跨工具共享，换模型不归零 |
-
-原则就两条：**本地能跑绝不上云** · **数据归你，无账号无遥测**
-
----
-
 ### 项目
 
 <table>
@@ -40,15 +22,11 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
       <a href="https://github.com/kittors/CliRelay">
         <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
-      <br>
-      <sub>把各家 AI CLI 包成 OpenAI / Gemini / Claude 兼容 API · <b>876★</b></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/codeProxy">
         <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
-      <br>
-      <sub>CliRelay 官方管理面板 · 配额 / 密钥 / 调用记录</sub>
     </td>
   </tr>
   <tr>
@@ -56,15 +34,11 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
       <a href="https://github.com/kittors/Mycelia">
         <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
-      <br>
-      <sub>AI agent 长期记忆 · 本地优先 · MCP 跨工具共享</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/deepseek-web-api">
         <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
-      <br>
-      <sub>DeepSeek Web 会话 → 本地 OpenAI 兼容 API</sub>
     </td>
   </tr>
 </table>
@@ -100,7 +74,7 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
 <div align="center">
 
 <img src="https://github-readme-stats-flax-alpha.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2f81f7&hide=issues&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats-flax-alpha.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
 
 <br><br>
 
