@@ -20,24 +20,36 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/CliRelay">
-        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true&bg_color=0d1117" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=default&hide_border=true" />
+        </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/codeProxy">
-        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true&bg_color=0d1117" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=default&hide_border=true" />
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/Mycelia">
-        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true&bg_color=0d1117" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=default&hide_border=true" />
+        </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/deepseek-web-api">
-        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true&bg_color=0d1117" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=default&hide_border=true" />
+        </picture>
       </a>
     </td>
   </tr>
@@ -73,11 +85,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-flax-alpha.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2f81f7&hide=issues&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&hide=issues&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=default&hide_border=true&hide=issues&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kittors&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=2f81f7&line=2f81f7&point=58a6ff" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kittors&theme=github-dark&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kittors&theme=github-light&hide_border=true&area=true" />
+</picture>
 
 </div>
