@@ -38,14 +38,14 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/CliRelay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
       <br>
       <sub>把各家 AI CLI 包成 OpenAI / Gemini / Claude 兼容 API · <b>876★</b></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/codeProxy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
       <br>
       <sub>CliRelay 官方管理面板 · 配额 / 密钥 / 调用记录</sub>
@@ -54,14 +54,14 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/Mycelia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
       <br>
       <sub>AI agent 长期记忆 · 本地优先 · MCP 跨工具共享</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/kittors/deepseek-web-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true&bg_color=0d1117" />
       </a>
       <br>
       <sub>DeepSeek Web 会话 → 本地 OpenAI 兼容 API</sub>
@@ -99,8 +99,8 @@ AI 编程 CLI 各管各的：配额、凭据、上下文互不通。换工具 = 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2f81f7&hide=issues&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+<img src="https://github-readme-stats-flax-alpha.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2f81f7&hide=issues&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats-flax-alpha.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
 
 <br><br>
 
