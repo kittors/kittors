@@ -16,53 +16,13 @@
 
 ### 项目
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kittors/CliRelay">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=dark&hide_border=true" />
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=CliRelay&theme=default&hide_border=true" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kittors/codeProxy">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=dark&hide_border=true" />
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=codeProxy&theme=default&hide_border=true" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kittors/Mycelia">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=dark&hide_border=true" />
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=Mycelia&theme=default&hide_border=true" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kittors/deepseek-web-api">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=dark&hide_border=true" />
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kittors&repo=deepseek-web-api&theme=default&hide_border=true" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>其他</b></summary>
-
-- [**AgentFlow**](https://github.com/kittors/AgentFlow) — agent 工作流
-- [**freshbox**](https://github.com/kittors/freshbox) — macOS 一键装机 TUI
-- [**aurora**](https://github.com/kittors/aurora) — 纸质风个人博客
-
-</details>
+- [![★](https://img.shields.io/github/stars/kittors/CliRelay?style=flat-square&label=%E2%98%85)](https://github.com/kittors/CliRelay) [**CliRelay**](https://github.com/kittors/CliRelay) — Self-hosted AI gateway for coding CLIs
+- [![★](https://img.shields.io/github/stars/kittors/codeProxy?style=flat-square&label=%E2%98%85)](https://github.com/kittors/codeProxy) [**codeProxy**](https://github.com/kittors/codeProxy) — CliRelay 前端管理面板
+- [![★](https://img.shields.io/github/stars/kittors/AgentFlow?style=flat-square&label=%E2%98%85)](https://github.com/kittors/AgentFlow) [**AgentFlow**](https://github.com/kittors/AgentFlow) — agent 工作流
+- [![★](https://img.shields.io/github/stars/kittors/deepseek-web-api?style=flat-square&label=%E2%98%85)](https://github.com/kittors/deepseek-web-api) [**deepseek-web-api**](https://github.com/kittors/deepseek-web-api) — DeepSeek Web 的本地 OpenAI 兼容 API
+- [![★](https://img.shields.io/github/stars/kittors/HotspotGate?style=flat-square&label=%E2%98%85)](https://github.com/kittors/HotspotGate) [**HotspotGate**](https://github.com/kittors/HotspotGate) — 闲置 Android 变常开 Wi-Fi 热点网关
+- [![★](https://img.shields.io/github/stars/kittors/Mycelia?style=flat-square&label=%E2%98%85)](https://github.com/kittors/Mycelia) [**Mycelia**](https://github.com/kittors/Mycelia) — AI coding agent 的长期记忆
+- [![★](https://img.shields.io/github/stars/kittors/Lyra?style=flat-square&label=%E2%98%85)](https://github.com/kittors/Lyra) [**Lyra**](https://github.com/kittors/Lyra) — 自带模型配置的独立 code agent
 
 ---
 
