@@ -1,64 +1,138 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&height=46&lines=yr;self-hosted+AI+infra;CliRelay+%C2%B7+Lyra+%C2%B7+Mycelia" alt="yr" />
+</p>
 
-# yr
+<p align="center">
+  合肥 · 喜欢尝试新事物，写代码。<br>
+  现在在做 self-hosted AI 基础设施，和自己用的 coding agent。
+</p>
 
-喜欢尝试新事物，写代码。
-
-<br>
-
-[![CliRelay](https://img.shields.io/github/stars/kittors/CliRelay?style=for-the-badge&logo=github&label=CliRelay&color=2f81f7&labelColor=0d1117)](https://github.com/kittors/CliRelay)
-[![Followers](https://img.shields.io/github/followers/kittors?style=for-the-badge&logo=github&label=Followers&color=238636&labelColor=0d1117)](https://github.com/kittors?tab=followers)
-[![Email](https://img.shields.io/badge/Email-yuan364299311%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yuan364299311@gmail.com)
-
-</div>
+<p align="center">
+  <a href="mailto:yuan364299311@gmail.com">email</a>
+  ·
+  <a href="https://x.com/KittorsY41334">x.com/KittorsY41334</a>
+  ·
+  <a href="https://github.com/kittors?tab=followers">followers</a>
+</p>
 
 ---
 
 ### 项目
 
-- [![★](https://img.shields.io/github/stars/kittors/CliRelay?style=flat-square&label=%E2%98%85)](https://github.com/kittors/CliRelay) [**CliRelay**](https://github.com/kittors/CliRelay) — Self-hosted AI gateway for coding CLIs
-- [![★](https://img.shields.io/github/stars/kittors/codeProxy?style=flat-square&label=%E2%98%85)](https://github.com/kittors/codeProxy) [**codeProxy**](https://github.com/kittors/codeProxy) — CliRelay 前端管理面板
-- [![★](https://img.shields.io/github/stars/kittors/AgentFlow?style=flat-square&label=%E2%98%85)](https://github.com/kittors/AgentFlow) [**AgentFlow**](https://github.com/kittors/AgentFlow) — agent 工作流
-- [![★](https://img.shields.io/github/stars/kittors/deepseek-web-api?style=flat-square&label=%E2%98%85)](https://github.com/kittors/deepseek-web-api) [**deepseek-web-api**](https://github.com/kittors/deepseek-web-api) — DeepSeek Web 的本地 OpenAI 兼容 API
-- [![★](https://img.shields.io/github/stars/kittors/HotspotGate?style=flat-square&label=%E2%98%85)](https://github.com/kittors/HotspotGate) [**HotspotGate**](https://github.com/kittors/HotspotGate) — 闲置 Android 变常开 Wi-Fi 热点网关
-- [![★](https://img.shields.io/github/stars/kittors/Mycelia?style=flat-square&label=%E2%98%85)](https://github.com/kittors/Mycelia) [**Mycelia**](https://github.com/kittors/Mycelia) — AI coding agent 的长期记忆
-- [![★](https://img.shields.io/github/stars/kittors/Lyra?style=flat-square&label=%E2%98%85)](https://github.com/kittors/Lyra) [**Lyra**](https://github.com/kittors/Lyra) — 自带模型配置的独立 code agent
-
----
-
-### 技术栈
+<table>
+  <tr>
+    <td align="right" width="92">
+      <a href="https://github.com/kittors/CliRelay">
+        <img src="https://img.shields.io/github/stars/kittors/CliRelay?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="CliRelay stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/CliRelay"><b>CliRelay</b></a>
+      · Go
+      <br>
+      <sub>给 coding CLI 用的自建 AI 网关，一个 endpoint 接 OpenAI / Claude / Gemini / Codex</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/codeProxy">
+        <img src="https://img.shields.io/github/stars/kittors/codeProxy?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="codeProxy stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/codeProxy"><b>codeProxy</b></a>
+      · TypeScript
+      <br>
+      <sub>CliRelay 的前端管理面板</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/AgentFlow">
+        <img src="https://img.shields.io/github/stars/kittors/AgentFlow?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="AgentFlow stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/AgentFlow"><b>AgentFlow</b></a>
+      · Go
+      <br>
+      <sub>agent 工作流</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/deepseek-web-api">
+        <img src="https://img.shields.io/github/stars/kittors/deepseek-web-api?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="deepseek-web-api stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/deepseek-web-api"><b>deepseek-web-api</b></a>
+      · TypeScript
+      <br>
+      <sub>DeepSeek Web 会话转成本地 OpenAI 兼容 API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/HotspotGate">
+        <img src="https://img.shields.io/github/stars/kittors/HotspotGate?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="HotspotGate stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/HotspotGate"><b>HotspotGate</b></a>
+      · Kotlin
+      <br>
+      <sub>闲置 Android 变成常开 Wi-Fi 热点网关</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/Mycelia">
+        <img src="https://img.shields.io/github/stars/kittors/Mycelia?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="Mycelia stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/Mycelia"><b>Mycelia</b></a>
+      · TypeScript
+      <br>
+      <sub>AI coding agent 的长期记忆，换工具不用重来</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/kittors/Lyra">
+        <img src="https://img.shields.io/github/stars/kittors/Lyra?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="Lyra stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/Lyra"><b>Lyra</b></a>
+      · TypeScript
+      <br>
+      <sub>自己配模型的独立 code agent，桌面和移动共用会话</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=ts,go,python,react,nextjs,nodejs,electron,sqlite,docker,linux" alt="stack" />
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=github_dark&hide_border=true&hide=issues&include_all_commits=true" />
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=default&hide_border=true&hide=issues&include_all_commits=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top langs" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=dark&hide_border=true&hide=issues&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittors&show_icons=true&theme=default&hide_border=true&hide=issues&include_all_commits=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kittors&theme=github-dark&hide_border=true&area=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kittors&theme=github-light&hide_border=true&area=true" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittors/kittors/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/kittors/kittors/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
