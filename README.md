@@ -48,6 +48,19 @@
   </tr>
   <tr>
     <td align="right">
+      <a href="https://github.com/kittors/sonar-probe">
+        <img src="https://img.shields.io/github/stars/kittors/sonar-probe?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="Sonar stars" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kittors/sonar-probe"><b>Sonar</b></a>
+      · TypeScript · Go
+      <br>
+      <sub>卡片式 VPS 探针，流量拆到进程与对端 IP，封禁带预检和二次确认</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
       <a href="https://github.com/kittors/AgentFlow">
         <img src="https://img.shields.io/github/stars/kittors/AgentFlow?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=f0c14b" alt="AgentFlow stars" />
       </a>
